@@ -47,3 +47,11 @@ Following command will execute the end-to-end tests in headless mode.
 - In commands.js a custom command for visiting the BritInsurance website and making sure the webpage is completely loaded before proceeding is added. Which can now be utilised with the command
 
 *Command* - ``cy.visitHomePage();``
+
+## Test Evidence
+### Search Testcase
+![](https://github.com/abhishekgite446/BritInsurance-Tech-Task/blob/main/cypress/gif/search.gif)
+### Contact Testcase(s)
+
+![](https://github.com/abhishekgite446/BritInsurance-Tech-Task/blob/main/cypress/gif/contact.gif)
+

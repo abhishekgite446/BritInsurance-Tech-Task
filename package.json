@@ -1,0 +1,16 @@
+{
+  "name": "britinsurance-tech-test",
+  "version": "1.0.0",
+  "description": "BritInsurance Tech Task",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "node_modules/.bin/cypress open",
+    "cypress:ci": "node_modules/.bin/cypress run"
+  },
+  "author": "Abhishek Gite",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
